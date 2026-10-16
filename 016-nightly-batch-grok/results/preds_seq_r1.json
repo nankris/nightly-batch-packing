@@ -1,0 +1,992 @@
+[
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 0,
+  "exit": 0,
+  "cost": 0.00558212,
+  "latency": 12.76,
+  "items": [
+   {
+    "id": 50,
+    "gold": "World",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "World",
+     "summary": "US Air Force F-15E fighters from Alaska will deploy temporarily to South Korea.",
+     "entities": [
+      "US Air Force",
+      "South Korea",
+      "Alaska"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 1,
+  "exit": 0,
+  "cost": 0.00614924,
+  "latency": 18.67,
+  "items": [
+   {
+    "id": 100,
+    "gold": "Sports",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sports",
+     "summary": "India won its first individual Olympic silver and the UAE its first medal.",
+     "entities": [
+      "India",
+      "UAE",
+      "Dubai"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 2,
+  "exit": 0,
+  "cost": 0.0070686,
+  "latency": 20.8,
+  "items": [
+   {
+    "id": 114,
+    "gold": "Sci/Tech",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sci/Tech",
+     "summary": "NASA said the Cassini probe spotted two new moons around Saturn.",
+     "entities": [
+      "Saturn",
+      "Reuters",
+      "NASA"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 3,
+  "exit": 0,
+  "cost": 0.00657764,
+  "latency": 15.98,
+  "items": [
+   {
+    "id": 200,
+    "gold": "Sci/Tech",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sci/Tech",
+     "summary": "Teens with poor single mothers fare worse in school, Rice study finds.",
+     "entities": [
+      "HealthDayNews",
+      "Rice University",
+      "Holly Heard"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 4,
+  "exit": 0,
+  "cost": 0.00589424,
+  "latency": 12.82,
+  "items": [
+   {
+    "id": 272,
+    "gold": "Business",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Business",
+     "summary": "Ohio sued Best Buy over alleged unfair and deceptive practices.",
+     "entities": [
+      "Ohio",
+      "Best Buy",
+      "Best Buy Co. Inc."
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 5,
+  "exit": 0,
+  "cost": 0.00610368,
+  "latency": 15.76,
+  "items": [
+   {
+    "id": 1257,
+    "gold": "Sci/Tech",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sci/Tech",
+     "summary": "A capsule carrying a piece of the Sun will plunge to Earth.",
+     "entities": [
+      "Sun",
+      "Earth"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 6,
+  "exit": 0,
+  "cost": 0.006766,
+  "latency": 33.84,
+  "items": [
+   {
+    "id": 1357,
+    "gold": "Business",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Business",
+     "summary": "The World Trade Organization again declared some European Union sugar exports illegal.",
+     "entities": [
+      "World Trade Organization",
+      "European Union",
+      "GENEVA"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 7,
+  "exit": 0,
+  "cost": 0.00567188,
+  "latency": 12.25,
+  "items": [
+   {
+    "id": 1759,
+    "gold": "Sports",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sports",
+     "summary": "Jacques Villeneuve tests for Renault at Silverstone amid next-season speculation.",
+     "entities": [
+      "Jacques Villeneuve",
+      "Renault",
+      "Silverstone"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 8,
+  "exit": 0,
+  "cost": 0.005933,
+  "latency": 13.68,
+  "items": [
+   {
+    "id": 1852,
+    "gold": "World",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "World",
+     "summary": "Iraq war allies reject Annan's claim the invasion was illegal.",
+     "entities": [
+      "Iraq",
+      "Kofi Annan",
+      "UN"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 9,
+  "exit": 0,
+  "cost": 0.0053856,
+  "latency": 46.27,
+  "items": [
+   {
+    "id": 1882,
+    "gold": "Sports",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sports",
+     "summary": "Ferrero was upset in the second round of the China Open.",
+     "entities": [
+      "Ferrero",
+      "China Open",
+      "Carlos Moya"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 10,
+  "exit": 0,
+  "cost": 0.00566236,
+  "latency": 10.54,
+  "items": [
+   {
+    "id": 2051,
+    "gold": "Sports",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sports",
+     "summary": "Michael Cooper scored the only touchdown as Georgia beat Marshall 13-3.",
+     "entities": [
+      "Georgia",
+      "Marshall",
+      "Michael Cooper"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 11,
+  "exit": 0,
+  "cost": 0.0049572,
+  "latency": 7.76,
+  "items": [
+   {
+    "id": 2100,
+    "gold": "Sci/Tech",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sci/Tech",
+     "summary": "Smoking, obesity and poor eating rose among young people in the 1990s.",
+     "entities": [
+      "HealthDayNews",
+      "United States",
+      "American Journal of Health Promotion"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 12,
+  "exit": 0,
+  "cost": 0.00652188,
+  "latency": 17.28,
+  "items": [
+   {
+    "id": 2111,
+    "gold": "Business",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Business",
+     "summary": "Oil hit $46 after YUKOS suspended some oil exports to China.",
+     "entities": [
+      "YUKOS",
+      "China",
+      "United States"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 13,
+  "exit": 0,
+  "cost": 0.00720732,
+  "latency": 23.79,
+  "items": [
+   {
+    "id": 2306,
+    "gold": "World",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Business",
+     "summary": "Leaders agreed to extend $150 billion in tax cuts without paying for them.",
+     "entities": [
+      "Congress",
+      "President Bush",
+      "Republican"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 14,
+  "exit": 0,
+  "cost": 0.00755004,
+  "latency": 23.61,
+  "items": [
+   {
+    "id": 2411,
+    "gold": "Sports",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sports",
+     "summary": "Boston activated Ellis Burks and released Phil Seibel; Milwaukee sent Matt Erickson to Indianapolis.",
+     "entities": [
+      "Ellis Burks",
+      "Phil Seibel",
+      "Matt Erickson"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 15,
+  "exit": 0,
+  "cost": 0.00560252,
+  "latency": 10.16,
+  "items": [
+   {
+    "id": 2467,
+    "gold": "Sports",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sports",
+     "summary": "Pedro Martinez tells Boston fans to call the Yankees his daddy.",
+     "entities": [
+      "Pedro Martinez",
+      "Yankees",
+      "Boston"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 16,
+  "exit": 0,
+  "cost": 0.00565284,
+  "latency": 11.08,
+  "items": [
+   {
+    "id": 2791,
+    "gold": "Business",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Business",
+     "summary": "Disney and Pixar ended talks to extend their distribution partnership.",
+     "entities": [
+      "Disney",
+      "Pixar Studios",
+      "Pixar"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 17,
+  "exit": 0,
+  "cost": 0.00589492,
+  "latency": 15.3,
+  "items": [
+   {
+    "id": 3014,
+    "gold": "Business",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Business",
+     "summary": "IMF and World Bank meet to keep the global recovery on track.",
+     "entities": [
+      "IMF",
+      "World Bank",
+      "AFP"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 18,
+  "exit": 0,
+  "cost": 0.00548828,
+  "latency": 35.41,
+  "items": [
+   {
+    "id": 3054,
+    "gold": "World",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "World",
+     "summary": "Gunfire erupted in a Haiti slum loyal to ousted President Jean-Bertrand Aristide.",
+     "entities": [
+      "PORT-AU-PRINCE",
+      "Haiti",
+      "Jean-Bertrand Aristide"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 19,
+  "exit": 0,
+  "cost": 0.0063308,
+  "latency": 16.43,
+  "items": [
+   {
+    "id": 3436,
+    "gold": "World",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "World",
+     "summary": "WHO says a major polio epidemic in West and Central Africa is inevitable.",
+     "entities": [
+      "U.N.",
+      "West and Central Africa",
+      "World Health Organisation"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 20,
+  "exit": 0,
+  "cost": 0.00610572,
+  "latency": 15.75,
+  "items": [
+   {
+    "id": 3483,
+    "gold": "World",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "World",
+     "summary": "Wangari Maathai won the 2004 Nobel Peace Prize for her activism.",
+     "entities": [
+      "Wangari Maathai",
+      "Africa",
+      "Nobel Peace Prize"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 21,
+  "exit": 0,
+  "cost": 0.0067762,
+  "latency": 19.87,
+  "items": [
+   {
+    "id": 3650,
+    "gold": "World",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "World",
+     "summary": "Two aid workers are killed in Sudan's Darfur region after their vehicle hit a landmine.",
+     "entities": [
+      "Darfur",
+      "Sudan's"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 22,
+  "exit": 0,
+  "cost": 0.00814708,
+  "latency": 27.5,
+  "items": [
+   {
+    "id": 3833,
+    "gold": "World",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "World",
+     "summary": "Israel's foreign ministry fears the country could face world isolation.",
+     "entities": [
+      "Jewish state",
+      "Israel",
+      "foreign ministry"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 23,
+  "exit": 0,
+  "cost": 0.00629,
+  "latency": 15.44,
+  "items": [
+   {
+    "id": 3835,
+    "gold": "Sci/Tech",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sci/Tech",
+     "summary": "Intel Corporation cancels a faster Pentium 4 chip to focus on value.",
+     "entities": [
+      "Intel",
+      "The Intel Corporation"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 24,
+  "exit": 0,
+  "cost": 0.00610776,
+  "latency": 14.56,
+  "items": [
+   {
+    "id": 3910,
+    "gold": "World",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "World",
+     "summary": "Britain increases anti-terror security spending, fearing an attack on London.",
+     "entities": [
+      "Britain",
+      "Tony Blair",
+      "London"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 25,
+  "exit": 0,
+  "cost": 0.00627572,
+  "latency": 16.18,
+  "items": [
+   {
+    "id": 5134,
+    "gold": "Sci/Tech",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sci/Tech",
+     "summary": "BBC One's 10 O'Clock News is launching the first interactive news television bulletin on Tuesday.",
+     "entities": [
+      "10 O'Clock News",
+      "BBC One"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 26,
+  "exit": 0,
+  "cost": 0.00577252,
+  "latency": 15.73,
+  "items": [
+   {
+    "id": 5224,
+    "gold": "Business",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Business",
+     "summary": "Citigroup chief Charles O. Prince is revamping culture after a Japan scandal.",
+     "entities": [
+      "Charles O. Prince",
+      "Citigroup",
+      "Japan"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 27,
+  "exit": 0,
+  "cost": 0.00686732,
+  "latency": 18.41,
+  "items": [
+   {
+    "id": 5225,
+    "gold": "Business",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Business",
+     "summary": "Industry leaders doubt mutual fund gains from Bush Social Security reform.",
+     "entities": [
+      "NEW YORK",
+      "Reuters",
+      "President Bush"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 28,
+  "exit": 0,
+  "cost": 0.0059908,
+  "latency": 13.29,
+  "items": [
+   {
+    "id": 5261,
+    "gold": "Sports",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sports",
+     "summary": "Retief Goosen closed with 64 to win the Tour Championship by four.",
+     "entities": [
+      "Retief Goosen",
+      "Tour Championship",
+      "Tiger Woods"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 29,
+  "exit": 0,
+  "cost": 0.00633556,
+  "latency": 37.32,
+  "items": [
+   {
+    "id": 5326,
+    "gold": "Sci/Tech",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sci/Tech",
+     "summary": "A British regulator report calls for stricter wireless ultrawideband controls than the United States.",
+     "entities": [
+      "UK",
+      "United States"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 30,
+  "exit": 0,
+  "cost": 0.00581808,
+  "latency": 12.21,
+  "items": [
+   {
+    "id": 5522,
+    "gold": "Sports",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sports",
+     "summary": "Darren Clarke fired a 66 to share the Taiheiyo Masters lead in Japan.",
+     "entities": [
+      "Darren Clarke",
+      "Taiheiyo Masters",
+      "Japan"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 31,
+  "exit": 0,
+  "cost": 0.00601732,
+  "latency": 28.97,
+  "items": [
+   {
+    "id": 5546,
+    "gold": "Sci/Tech",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sci/Tech",
+     "summary": "Four former Microsoft employees are charged with stealing software worth millions.",
+     "entities": [
+      "Microsoft"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 32,
+  "exit": 0,
+  "cost": 0.00556036,
+  "latency": 10.5,
+  "items": [
+   {
+    "id": 5756,
+    "gold": "Business",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Business",
+     "summary": "Federal Reserve Governor Mark Olson speaks about his economic outlook in Toronto.",
+     "entities": [
+      "Federal Reserve",
+      "Mark Olson",
+      "Toronto"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 33,
+  "exit": 0,
+  "cost": 0.00534412,
+  "latency": 10.38,
+  "items": [
+   {
+    "id": 5997,
+    "gold": "Sports",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sports",
+     "summary": "Tiger Woods leads the Dunlop Phoenix after a rain-soaked 65.",
+     "entities": [
+      "Tiger Woods",
+      "Dunlop Phoenix",
+      "MIYAZAKI"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 34,
+  "exit": 0,
+  "cost": 0.00530944,
+  "latency": 10.0,
+  "items": [
+   {
+    "id": 6296,
+    "gold": "Business",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Business",
+     "summary": "BHP Billiton completed a bigger-than-expected share buyback that boosted its stock price.",
+     "entities": [
+      "BHP",
+      "BHP Billiton"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 35,
+  "exit": 0,
+  "cost": 0.00646204,
+  "latency": 16.9,
+  "items": [
+   {
+    "id": 6680,
+    "gold": "Business",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Business",
+     "summary": "At least 100 Delta Air Lines pilots are expected to retire Wednesday.",
+     "entities": [
+      "Delta Air Lines",
+      "Gerald Grinstein"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 36,
+  "exit": 0,
+  "cost": 0.006205,
+  "latency": 14.68,
+  "items": [
+   {
+    "id": 6781,
+    "gold": "Sci/Tech",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sci/Tech",
+     "summary": "Apple Computer launched its iTunes Music Store in Canada at $.99 CDN per song.",
+     "entities": [
+      "Apple Computer",
+      "iTunes Music Store",
+      "Canada"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 37,
+  "exit": 0,
+  "cost": 0.0052394,
+  "latency": 9.31,
+  "items": [
+   {
+    "id": 6871,
+    "gold": "Sports",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sports",
+     "summary": "Tennessee Titans tackle Michael Munoz had successful right shoulder surgery.",
+     "entities": [
+      "Michael Munoz",
+      "Tennessee Titans",
+      "Knoxville, TN"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 38,
+  "exit": 0,
+  "cost": 0.00606492,
+  "latency": 16.42,
+  "items": [
+   {
+    "id": 7167,
+    "gold": "World",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "World",
+     "summary": "Yasser Arafat's health records were submitted to the Palestinian Authority.",
+     "entities": [
+      "Yasser Arafat",
+      "Palestinian Authority",
+      "Paris"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "arm": "seq",
+  "rep": 1,
+  "chunk": 39,
+  "exit": 0,
+  "cost": 0.005542,
+  "latency": 10.18,
+  "items": [
+   {
+    "id": 7499,
+    "gold": "Sci/Tech",
+    "parsed": true,
+    "out": {
+     "n": 1,
+     "topic": "Sci/Tech",
+     "summary": "Science journal ranks Mars life discovery as 2004's top breakthrough.",
+     "entities": [
+      "Mars",
+      "Science"
+     ]
+    }
+   }
+  ]
+ }
+]

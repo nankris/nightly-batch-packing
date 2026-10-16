@@ -1,0 +1,8 @@
+b40 2 chunks ok 1 / 1
+b40 3 chunks ok 1 / 1
+b40low 2 chunks ok 1 / 1
+b40low 3 chunks ok 1 / 1
+b10 2 chunks ok 4 / 4
+b10 3 chunks ok 4 / 4
+seqlow 2 chunks ok 40 / 40
+seqlow 3 chunks ok 40 / 40
